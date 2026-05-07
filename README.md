@@ -20,7 +20,9 @@ This project performs phrase-to-phrase matching using TF-IDF techniques and Ridg
 2. Text cleaning
 3. TF-IDF vectorization
 4. Phrase similarity matching
-5. Result analysis
+
+##  Result 
+- Achieved MSE: 0.05, MAE: 0.17, and R² Score: 0.25 on test data.
 
 ## Dataset
 U.S. Patent Phrase Matching dataset.
