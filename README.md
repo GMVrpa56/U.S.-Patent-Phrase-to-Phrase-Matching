@@ -27,5 +27,3 @@ This project performs phrase-to-phrase matching using TF-IDF techniques and Ridg
 ## Dataset
 U.S. Patent Phrase Matching dataset.
 
-## Author
-Gracy
